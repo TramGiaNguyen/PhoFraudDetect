@@ -1,0 +1,12 @@
+[USER1] Chào bạn, bạn có biết cách gia hạn gói cước điện thoại không?
+[USER2] Chào, mình hay dùng ứng dụng chính thức của nhà mạng để gia hạn, khá nhanh.
+[USER1] Mình nên vào mục nào trong ứng dụng vậy?
+[USER2] Bạn mở ứng dụng, vào Quản lý gói cước rồi chọn gói muốn gia hạn là được.
+[USER1] Có cần cung cấp thông tin thẻ hay OTP ở đâu không?
+[USER2] Nếu thanh toán qua ví điện tử liên kết, chỉ xác nhận trong ví. Không chia sẻ OTP cho ai cả.
+[USER1] Trên mạng có nhiều link khuyến mãi, có nên bấm không?
+[USER2] Mình chỉ dùng link trên website/app chính thức. Tránh link lạ để an toàn.
+[USER1] Nếu cần hỗ trợ, liên hệ ở đâu?
+[USER2] Bạn chat trong app hoặc gọi tổng đài chính thức, họ sẽ xác thực tài khoản.
+[USER1] Ok, để mình thử gia hạn trong ứng dụng. Cảm ơn bạn.
+[USER2] Không có gì, nếu gặp lỗi báo lại mình xem cùng nhé.

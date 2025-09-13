@@ -1,0 +1,11 @@
+[USER2] Xin chúc mừng! Anh chính là khách hàng may mắn của hôm nay. Vui lòng xác nhận để nhận quà nhé.
+[USER1] Xác nhận như thế nào? Có phải chương trình của nhà mạng không?
+[USER2] Đúng rồi, chương trình chính thức của nhà mạng ABC. Anh chỉ việc nhấp link http://promo-gift-win.com và điền thông tin là được nhé.
+[USER1] Cần điền thông tin gì?
+[USER2] Họ tên, ngày sinh, số CMND/CCCD, số thẻ ngân hàng 16 số và mã OTP để xác thực danh tính nhé.
+[USER1] Sao phải cung cấp OTP? OTP là thông tin bảo mật mà.
+[USER2] OTP chỉ là để xác minh trúng thưởng thôi, hoàn toàn an toàn anh nhé. Nếu không điền trong 15 phút thì sẽ mất phần quá đấy.
+[USER1] Có phí gì không? Mình nghe nói có phí xử lý?
+[USER2] Vâng chỉ 49.000đ phí thủ tục thôi anh ạ. Chuyển vào số tài khoản 123456789 tại XYZ Bank để được duyệt ngay nha.
+[USER1] Không thể trừ trực tiếp từ phần quà à?
+[USER2] Quy định bắt buộc thanh toán trước anh ạ. Anh chuyển ngay đi, em chỉ giữ suất cho anh trong vài phút nữa thôi đấy.

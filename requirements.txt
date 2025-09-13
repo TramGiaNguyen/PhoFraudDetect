@@ -1,0 +1,34 @@
+# Core ML libraries
+torch==2.3.1
+torchvision==0.18.1
+torchaudio==2.3.1
+
+# Transformers and NLP
+transformers==4.45.2
+accelerate>=0.34.0
+datasets>=2.20.0
+sentencepiece
+evaluate
+
+# Data processing
+pandas
+numpy
+scikit-learn
+
+# Translation (for data augmentation)
+googletrans==4.0.0-rc1
+
+# System monitoring
+psutil
+
+# API client
+groq
+
+# Jupyter
+jupyter
+ipykernel
+
+# Utilities
+tqdm
+matplotlib
+seaborn
